@@ -1,0 +1,15 @@
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\Projeto-locadora-de-carros.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\Projeto-locadora-de-carros.AssemblyInfoInputs.cache
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\Projeto-locadora-de-carros.AssemblyInfo.cs
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\Projeto-locadora-de-carros.csproj.CoreCompileInputs.cache
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\Projeto-locadora-de-carros.sourcelink.json
+E:\Projeto locadora\Projeto-locadora-de-carros\bin\Debug\net9.0\Projeto-locadora-de-carros.exe
+E:\Projeto locadora\Projeto-locadora-de-carros\bin\Debug\net9.0\Projeto-locadora-de-carros.deps.json
+E:\Projeto locadora\Projeto-locadora-de-carros\bin\Debug\net9.0\Projeto-locadora-de-carros.runtimeconfig.json
+E:\Projeto locadora\Projeto-locadora-de-carros\bin\Debug\net9.0\Projeto-locadora-de-carros.dll
+E:\Projeto locadora\Projeto-locadora-de-carros\bin\Debug\net9.0\Projeto-locadora-de-carros.pdb
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\Projeto-locadora-de-carros.dll
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\refint\Projeto-locadora-de-carros.dll
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\Projeto-locadora-de-carros.pdb
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\Projeto-locadora-de-carros.genruntimeconfig.cache
+E:\Projeto locadora\Projeto-locadora-de-carros\obj\Debug\net9.0\ref\Projeto-locadora-de-carros.dll
